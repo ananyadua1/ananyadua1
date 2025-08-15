@@ -22,6 +22,9 @@
 <a href="https://linkedin.com/in/ananyadua/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ananyadua"/></a>
 <a href="https://kaggle.com/ananyadua1" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="ananyadua1"/></a>
 <a href="https://www.hackerrank.com/ananyadua1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ananyadua1"/></a>
+<a href="https://leetcode.com/u/ananyadua1/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="ananyadua1"/></a>
+<a href="https://www.hackerearth.com/@ananyadua1/" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white" alt="ananyadua1"/></a>
+
 
 # 💻 Tech Stack:
 ### 🛠️ Languages, Tools & Technologies
